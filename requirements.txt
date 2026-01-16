@@ -1,1 +1,6 @@
-text pandas streamlit matplotlib seaborn xlrd openpyxl
+streamlit
+pandas
+matplotlib
+seaborn
+xlrd
+openpyxl
